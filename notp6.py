@@ -1,6 +1,11 @@
-d={3:0}
-{0:"Boston Americans"}
-New York Giants
+yr={
+3:0,
+5:1,
+6:}
+nm={0:"Boston Americans",
+1:"New York Giants",
+2:"Chicago White Sox",
+3:"Chicago Cubs"}
 Chicago White Sox
 Chicago Cubs
 Chicago Cubs
