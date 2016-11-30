@@ -1,11 +1,14 @@
 yr={
 3:0,
 5:1,
-6:}
+6:2}
 nm={0:"Boston Americans",
 1:"New York Giants",
 2:"Chicago White Sox",
-3:"Chicago Cubs"}
+3:"Chicago Cubs",
+4:"Pittsburg Pirates",
+5:"Philadelphia Athletics",
+6:""}
 Chicago White Sox
 Chicago Cubs
 Chicago Cubs
